@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/Loader.js",
+    "components/Loader.jsxx",
     "components/Navbar.js",
     "components/Navbar.js",
     "pages/index.js",

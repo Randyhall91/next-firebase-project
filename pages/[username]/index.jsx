@@ -1,5 +1,5 @@
 import UserProfile from '../../components/UserProfile.js'
-import PostFeed from '../../components/PostFeed.js'
+import PostFeed from '../../components/PostFeed.jsx'
 import { getUserWithUsername, postToJSON } from '../../lib/firebase.js'
 
 
